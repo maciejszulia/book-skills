@@ -37,3 +37,7 @@ The text of the skills is licensed under the MIT License; see [LICENSE](LICENSE)
 ## Author
 
 Maciej Szulia
+
+## Documentation
+
+[Architecture documentation](docs/architecture/README.md)
